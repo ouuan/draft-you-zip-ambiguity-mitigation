@@ -19,8 +19,8 @@
 # Change the file extension to match the format (.xml for XML, etc...)
 #
 ###
-title: "TODO - Your title"
-abbrev: "TODO - Abbreviation"
+title: "Identifying and Mitigating Ambiguities in ZIP File Parsing"
+abbrev: "Mitigating ZIP Parsing Ambiguities"
 category: info
 
 docname: draft-todo-yourname-protocol-latest
